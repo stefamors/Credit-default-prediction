@@ -2,9 +2,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefamors/Credit-default-prediction/blob/main/credit_default_prediction.ipynb)
 
-Comparative study of supervised classifiers ...
-
-
 Comparative study of supervised classifiers for predicting whether a credit card client will default on next month's payment.
 
 **Authors:** Stefano Morselli, Niccolò Poli
